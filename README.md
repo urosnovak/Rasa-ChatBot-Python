@@ -1,2 +1,2 @@
 # Rasa-ChatBot-Python
-Rasa chatbot projects
+Rasa chatbot project
